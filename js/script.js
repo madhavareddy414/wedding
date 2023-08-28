@@ -46,7 +46,7 @@ var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
 document.getElementById("days").innerHTML = days + " days "
 document.getElementById("hours").innerHTML = hours + " hours " 
-document.getElementById("mins").innerHTML = minutes + " minuts " 
+document.getElementById("mins").innerHTML = minutes + " minutes " 
 document.getElementById("secs").innerHTML = seconds + " seconds"
 // document.getElementById("demo").innerHTML = days + "d " + hours + "h "
 //   + minutes + "m " + seconds + "s ";
